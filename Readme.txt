@@ -1,1 +1,0 @@
-Burning Bush Ministries 2020
