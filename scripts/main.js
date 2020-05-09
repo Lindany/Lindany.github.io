@@ -17,9 +17,9 @@ $(document).ready(() => {
 
   $("#resume").load("html/resume.html");
 
-  // $("#works").load("html/works.html", () => {
-  //   modalEvent();
-  // });
+  $("#works").load("html/works.html", () => {
+    modalEvent();
+  });
 
   $("#contact").load("html/contact.html");
 });
